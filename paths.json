@@ -1,0 +1,19 @@
+{
+    "mappings": [
+      "/content/praffuls/696edc439dc9d74ce62b2899/:/",
+      "/content/praffuls/696edc439dc9d74ce62b2899/configuration:/.helix/config.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/metadata:/metadata.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/configs:/configs.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/configs-stage:/configs-stage.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/configs-dev:/configs-dev.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/redirects:/redirects.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/placeholders:/placeholders.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/products/recommended-products:/products/recommended-products.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/praffuls/696edc439dc9d74ce62b2899/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/praffuls/696edc439dc9d74ce62b2899",
+      "/content/dam/citisignal/images/products/"
+    ]
+}
